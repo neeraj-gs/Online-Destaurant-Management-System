@@ -13,3 +13,6 @@ Tech Stacks Used are:
       INitially you will see an online reswtaurant site where
        1.Sign up/ Register if a new User
        2.Login if an existing User
+       3.Go to the menu and add the items you would like to order.
+       4.Then you can proceed to the cart and make teh checkout
+       5.you will be navigated ot a payment gateway where you can do it.
