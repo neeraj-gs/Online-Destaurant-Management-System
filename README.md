@@ -16,3 +16,6 @@ Tech Stacks Used are:
        3.Go to the menu and add the items you would like to order.
        4.Then you can proceed to the cart and make teh checkout
        5.you will be navigated ot a payment gateway where you can do it.
+       6.Then you will be using your mail id and a payment card to make the payment.
+       7.once the paymetn is successfull you will recieve an email.
+      
