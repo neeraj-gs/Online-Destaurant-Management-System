@@ -7,6 +7,11 @@ Tech Stacks Used are:
    Backend:
     MERN Stack[Mongo DB , Express JS , React JS, Node JS] , 
     MY SQL
+    Software ENgineering Peers:
+Keeping in mind about the softwarre engineering aspects of developing a project.  
+  Used Diffrent functionalities
+  Added the functionality in the order as sprints.
+  Divided the large work into small work.
     
     
     About this Project:
