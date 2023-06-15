@@ -12,6 +12,8 @@ Keeping in mind about the softwarre engineering aspects of developing a project.
   Used Diffrent functionalities
   Added the functionality in the order as sprints.
   Divided the large work into small work.
+
+  To run this project --> open terminal in the directry where all the files are present
     
     
     About this Project:
