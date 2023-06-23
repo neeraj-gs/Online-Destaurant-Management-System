@@ -25,4 +25,5 @@ Keeping in mind about the softwarre engineering aspects of developing a project.
        5.you will be navigated ot a payment gateway where you can do it.
        6.Then you will be using your mail id and a payment card to make the payment.
        7.once the paymetn is successfull you will recieve an email.
+       8.All the data is Stored in a MySQL Databse.
       
