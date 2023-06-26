@@ -14,6 +14,9 @@ Keeping in mind about the softwarre engineering aspects of developing a project.
   Divided the large work into small work.
 
   To run this project --> open terminal in the directry where all the files are present
+
+  Software Development Cycle was kept in mind ot build it and sprint weeks were kept in mind
+  
     
     
     About this Project:
